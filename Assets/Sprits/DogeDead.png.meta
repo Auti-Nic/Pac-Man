@@ -1,25 +1,13 @@
 fileFormatVersion: 2
-guid: 090a4f928314dca4d82d6305c4ccc643
+guid: 0da04d0246e26a941ad055d4f4318616
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 645411862609229670
-    second: Map_0
+      213: -1514373467193030648
+    second: DogeDead_0
   - first:
-      213: -3276122099754389042
-    second: Map_1
-  - first:
-      213: -135665275369439952
-    second: Map_2
-  - first:
-      213: 6732742066884364779
-    second: Map_3
-  - first:
-      213: -7324858090283886608
-    second: Map_4
-  - first:
-      213: 4945718543514210754
-    second: Map_5
+      213: -297062894147421336
+    second: DogeDead_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -145,127 +133,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Map_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 1
-      pivot: {x: 0, y: 1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66775a46ba6f4f800800000000000000
-      internalID: 645411862609229670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Map_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 1
-      pivot: {x: 0, y: 1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec13553de40e882d0800000000000000
-      internalID: -3276122099754389042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Map_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 1
-      pivot: {x: 0, y: 1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03dbf3d96250e1ef0800000000000000
-      internalID: -135665275369439952
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Map_3
+      name: DogeDead_0
       rect:
         serializedVersion: 2
         x: 0
         y: 32
         width: 32
         height: 32
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be9c8fcfc318f6d50800000000000000
-      internalID: 6732742066884364779
+      spriteID: 808cea6ea5ddbfae0800000000000000
+      internalID: -1514373467193030648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Map_4
+      name: DogeDead_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
+        x: 0
+        y: 0
         width: 32
         height: 32
-      alignment: 1
-      pivot: {x: 0, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f79b7a2060e85a90800000000000000
-      internalID: -7324858090283886608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Map_5
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 1
-      pivot: {x: 0, y: 1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c11a31dfc8b2a440800000000000000
-      internalID: 4945718543514210754
+      spriteID: 86bb4662fde90ebf0800000000000000
+      internalID: -297062894147421336
       vertices: []
       indices: 
       edges: []
