@@ -31,10 +31,6 @@ public class Rolling : MonoBehaviour
             angle = 0f;
         }
 
-        Vector2 targetDir = center.position - transform.position; // 目标坐标与当前坐标差的向量
-
-        Vector2.Angle(transform.forward, targetDir); // 返回当前坐标与目标坐标的角度
         
-        Debug.Log(Vector2.Angle(transform.forward, targetDir));
     }
 }
